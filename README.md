@@ -1,0 +1,1 @@
+This repo contains the training materials for Databricks Data Engineer and Machine Learning certifications
